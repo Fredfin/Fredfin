@@ -1,7 +1,6 @@
 RECORD
 
-Update Date: 2023-10-13
-
+Update Date: 2023-10-13 //
 Cost：XXX
 
 Current value: xxx
